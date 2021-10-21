@@ -33,24 +33,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_BOOT_JARS += \
     mediatek-common \
     mediatek-framework \
-    mediatek-ims-base \
-    mediatek-ims-common \
-    mediatek-telecom-common \
-    mediatek-telephony-base \
-    mediatek-telephony-common
+    mediatek-ims-base
 
 # Radio IMS Jars
 PRODUCT_PACKAGES += \
     mediatek-common \
     mediatek-framework \
-    mediatek-ims-base \
-    mediatek-ims-common \
-    mediatek-ims-legacy \
-    mediatek-telecom-common \
-    mediatek-telephony-base \
-    mediatek-ims-wwop-common \
-    mediatek-telephony-common \
-    mediatek-ims-extension-plugin
+    mediatek-ims-base
 
 # Video Telephony
 PRODUCT_PACKAGES += \
