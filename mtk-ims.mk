@@ -32,13 +32,11 @@ PRODUCT_PACKAGES += \
 # Radio IMS Boot Jar
 PRODUCT_BOOT_JARS += \
     mediatek-common \
-    mediatek-framework \
     mediatek-ims-base
 
 # Radio IMS Jars
 PRODUCT_PACKAGES += \
     mediatek-common \
-    mediatek-framework \
     mediatek-ims-base
 
 # Video Telephony
